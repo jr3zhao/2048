@@ -1,0 +1,13 @@
+game/images/iconLogo.jpg
+11
+game/images/icon2.jpg
+game/images/icon4.jpg
+game/images/icon8.jpg
+game/images/icon16.jpg
+game/images/icon32.jpg
+game/images/icon64.jpg
+game/images/icon128.jpg
+game/images/icon256.jpg
+game/images/icon512.jpg
+game/images/icon1024.jpg
+game/images/icon2048.jpg

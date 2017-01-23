@@ -10,5 +10,5 @@ To play the game, simply download and run the .jar file!
 ##Controls
 |Key|Function|
 |---|---|
-|Backspace|Undo|
 |Arrow keys|Move every tile to that direction|
+|Backspace|Undo|

@@ -61,7 +61,7 @@
    /**
     * Constructs Game2048 object.
     *
-    * @param gameGUI	The GUI object that will be used by this class.
+    *  gameGUI	The GUI object that will be used by this class.
     */   
       public Game2048(Game2048GUI gameGUI)
       {

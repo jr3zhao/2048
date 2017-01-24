@@ -9,10 +9,10 @@
       private Game2048 game;
    
    /**
-    * Constructs the Game2048Listener object by taking in the <i>game</i> and the <i>gui</i>.
+    * Constructs the Game2048Listener object by taking in the game and the gui.
     *
-    * @param _game		The game object that contains the logic.
-    * @param _gui		The GUI object of the game.
+    *  _game		The game object that contains the logic.
+    *  _gui		The GUI object of the game.
     */     
        public Game2048Listener (Game2048 _game, Game2048GUI _gui)
       {
@@ -24,7 +24,7 @@
    /**
     * Overriding the keyPressed method from KeyListener class. Invoked when a key has been pressed. See the class description for KeyEvent for a definition of a key pressed event.
     *
-    * @param e			Contains the event from the user's keyboard input.
+    *  e			Contains the event from the user's keyboard input.
     */     
        public void keyPressed(KeyEvent e)
       {
@@ -61,7 +61,7 @@
    /**
     * Overriding the keyReleased method from KeyListener class. Invoked when a key has been released. See the class description for KeyEvent for a definition of a key released event.
     *
-    * @param e			Contains the event from the user's keyboard input.
+    *  e			Contains the event from the user's keyboard input.
     */     	
        public void keyReleased(KeyEvent e)
       {
@@ -72,7 +72,7 @@
    /**
     * Overriding the keyTyped method from KeyListener class. Invoked when a key has been typed. See the class description for KeyEvent for a definition of a key typed event.
     *
-    * @param e			Contains the event from the user's keyboard input.
+    *  e			Contains the event from the user's keyboard input.
     */  	
        public void	keyTyped(KeyEvent e)
       {

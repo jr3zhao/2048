@@ -4,10 +4,10 @@
 
 Most of the game images are replaced with generic numbers to avoid confusion (original pictures requied knowledge of LoL) :)
 
-##Installation
+## Installation
 To play the game, simply download and run the .jar file!
 
-##Controls
+## Controls
 |Key|Function|
 |---|---|
 |Arrow keys|Move every tile to that direction|
